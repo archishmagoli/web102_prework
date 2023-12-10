@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='[Video Walkthrough](https://drive.google.com/file/d/16A-O6w0bRgFwa7yrVLRcbxAQqw2l2cyi/view?usp=sharing)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://drive.google.com/file/d/16A-O6w0bRgFwa7yrVLRcbxAQqw2l2cyi/view?usp=sharing">Video Walkthrough</a>
 
 GIF created with LiceCap
 
