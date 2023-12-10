@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: <a href="https://drive.google.com/file/d/16A-O6w0bRgFwa7yrVLRcbxAQqw2l2cyi/view?usp=sharing">Video Walkthrough</a>
+Here's a walkthrough of implemented features: <a href="https://i.imgur.com/1lk4lkM.gif">Video Walkthrough</a>
 
 GIF created with LiceCap
 
